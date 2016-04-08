@@ -1,2 +1,2 @@
 # mysql
-aboout mysql
+about mysql
